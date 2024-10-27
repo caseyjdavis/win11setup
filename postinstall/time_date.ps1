@@ -1,0 +1,1 @@
+Set-TimeZone "Mountain Standard Time"
