@@ -1,6 +1,6 @@
 # My Windows
 
-This is auto installation script for settings my OS like a boss.
+This is auto installation script for setting up a Windows 11 box from base.
 
 # Features
 
@@ -10,14 +10,13 @@ This is auto installation script for settings my OS like a boss.
 * Install libs for pyhon and node.js
 * Install latest windows updates
 * Setup custom shortcuts with [auto hot key app](https://www.autohotkey.com/)
-* [Debloats stupid windows apps](https://github.com/Sycnex/Windows10Debloater)
+* [Debloats Windows Apps](https://github.com/Sycnex/Windows10Debloater)
 * Setup git user and git email
 * Setup default keyboard layouts
 * Setup custom time format in taskbar
 * Setup registery settings:
   * Disable shortcut Win+L (lock screen)
   * Auto hide taskbar
-  * Show clock seconds
   * Show hidden files
   * Show file extensions
   * Disable notifications
