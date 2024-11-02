@@ -22,4 +22,4 @@ choco install paint.net -y --ignore-checksums
 choco install vlc -y --ignore-checksums
 
 LOG_TITLE "Install fonts"
-choco install jetbrainsmono -y --ignore-checksums
+choco install nerd-fonts-jetbrainsmono -y --ignore-checksums
